@@ -15,12 +15,6 @@
 
 ##
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="PhiNax Spotify Playing" width="350" />](https://open.spotify.com/user/z5zksujs7ahuvze5sxvu8yysd)
-
-##
-
 ### Connect with me:
 
 [<img align="left" alt="# | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
