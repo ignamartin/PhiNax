@@ -11,7 +11,6 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Hobbies: I love play guitar / studing drums and bass
 - 
-- Always willing to help (Altruistic)
 
 ##
 
