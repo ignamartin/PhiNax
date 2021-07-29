@@ -1,10 +1,10 @@
 ### Hi there, I'm @PhiNax - [Website][website] 👋
 
-[![Website](https://img.shields.io/website?label=Website&style=for-the-badge&url=https%3A%2F%2F-#-.com)](https://#)
+[![Website](https://img.shields.io/website?label=Website&style=for-the-badge&url=https%3A%2F%2F-#-.com)](https://www.linkedin.com/in/phinax/)
 
 ## TITLE !!
 
-- 🔭 Visite my Website: [TITLE!][course]!
+- 🔭 Visite my LinkedIn: [TITLE!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🤔 I’m looking for help to iniciate people to the programming world
