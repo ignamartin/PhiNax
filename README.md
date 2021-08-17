@@ -2,7 +2,7 @@
 <br />
 
 #### :file_folder: Visite my [Linkedin]!
-- I’m currently learning React Js
+- I’m currently developing projects on React Js
 - opening to collaborate with NGOs proyects
 - free for help to others to iniciate to the programming world
 
