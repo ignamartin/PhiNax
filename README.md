@@ -6,7 +6,7 @@
 - opening to collaborate with NGOs proyects
 - free for help to others to iniciate to the programming world
 
-### Hobbies - Things I love:
+### Hobbies - Things that I love:
 - Programing :floppy_disk: and play video games :video_game:
 - Play guitar :guitar: and studing drums
 - Ride Bike :bicyclist: - Running :running: - Rowing :rowboat:
