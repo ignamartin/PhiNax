@@ -18,6 +18,6 @@
 
 ##
 
-[website]: https://www.linkedin.com/in/phinax/
+[website]: https://www.linkedin.com/in/ignamartin/
 [instagram]: https://instagram.com/#
-[Linkedin]: https://linkedin.com/in/phinax/
+[Linkedin]: https://www.linkedin.com/in/ignamartin/
